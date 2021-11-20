@@ -11,7 +11,7 @@
 A model that tracks the [E]volution [O]f [N]itrogen on Mars
 By Trent Thomas and Renyu Hu
 
-This set of Matlab codes runs our model for the evolution of nitrogen in the Martian atmosphere over the last 3.8 billion years - A.K.A. “PIGEON”. This model is described in Renyu Hu and Trent B. Thomas (2022) “A Nitrogen-Rich Atmosphere on Ancient Mars Indicated by Isotopic Evolution”, Nature Geoscience. This model is mainly designed to recreate the representative cases in Figure 2 in the main text, but can be adapted to recreate other figures.
+This set of Matlab codes runs our model for the evolution of nitrogen in the Martian atmosphere over the last 3.8 billion years - A.K.A. “PIGEON”. This model is described in Renyu Hu and Trent Thomas (2022) “A Nitrogen-Rich Atmosphere on Ancient Mars Indicated by Isotopic Evolution”, Nature Geoscience. This model is mainly designed to recreate the representative cases in Figure 2 in the main text, but can be adapted to recreate other figures.
 
 As a matter of courtesy, we request that people using this code please cite Hu and Thomas (2022). In the interest of an "open source" approach, we also request that authors who use and modify the code, please send a copy of papers and modified code to the authors (renyu.hu@jpl.nasa.gov and tbthomas@uw.edu)
 
