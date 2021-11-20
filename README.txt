@@ -35,7 +35,7 @@ This is the top-level script to run the model. Set the path, choose an input fil
 This is the function where all scientific calculations are contained. As input, it takes the structure “in”. As output, it gives the structure “out”. 
 
 %% Input files
-There are 4 input files contained in the subdirectory “input_files”. Each file contains all of the scientific inputs required to run the model.
+There are 4 input files contained in the subdirectory “input_files”. Each file contains all of the scientific inputs required to run the model. The data structure for model inputs, called "in", is created in these files.
 
 %% Everything else
 Model functions are contained in the “functions” subdirectory. External data used to run the model is contained in the subdirectory “data”.
